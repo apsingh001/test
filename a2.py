@@ -1,1 +1,1 @@
-print("snfndigwidgnowg")
+print("snfndigwi")
